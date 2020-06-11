@@ -1,3 +1,7 @@
+body {
+  background-image: url("https://img1.mashed.com/img/uploads/2017/12/cake.jpg");
+}
+
 .nav-bar {
   height: 40px;
   margin: 15px;
