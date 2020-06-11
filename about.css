@@ -51,12 +51,14 @@ a:hover {
 .title {
   font-family: arial;
   color: white;
+  font-size: 30px;
 }
 
 .mainp {
   width: 60%;
   font-family: arial;
   color: white;
+  font-size: 15px;
 }
 
 footer {
