@@ -45,16 +45,13 @@ a:hover {
   color: #fff;
 }
 
-main {
-  background: #fEE;
-}
-
 .title {
   font-family: arial;
 }
 
 .mainp {
   width: 60%;
+  font-family: arial;
 }
 
 footer {
