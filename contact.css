@@ -58,6 +58,7 @@ a:hover {
 }
 
 form {
+  background: white;
   margin: auto;
   width: 50%;
   border: 0.5px solid gray;
