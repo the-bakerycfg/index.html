@@ -144,11 +144,13 @@ h4 {
 
 .review-title {
   font-size: 15px;
+  background: white;
 }
 
 .review {
   font-size: 13px;
   font-family: arial;
+  background: white;
 }
 
 footer {
