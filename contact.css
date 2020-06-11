@@ -1,0 +1,167 @@
+.nav-bar {
+  height: 40px;
+  margin: 15px;
+}
+
+.nav-buttons {
+  display: flex;
+  justify-content: space-around;
+  margin: auto;
+  text-align: center;
+  padding: 0px;
+  align-items: center;
+}
+
+.button {
+  padding: 10px;
+  border-radius: 10px;
+  margin: auto;
+  text-align: center;
+  transition: all 0.3s ease-in-out;
+}
+
+.button:hover {
+  background-color: #F88;
+  transform: scale(1.1);
+}
+
+a {
+  color: #F88;
+  font-size: 18px;
+  text-align: center;
+  margin: auto;
+}
+
+a:hover {
+  text-decoration: none;
+  color: #fff;
+}
+
+.contact {
+  text-align: center;
+  font-size: 50px;
+  margin: 10px;
+}
+
+.contact-text {
+  text-align: center;
+  font-weight: bold;
+  padding: 0px;
+  margin: 0px;
+}
+
+form {
+  margin: auto;
+  width: 50%;
+  border: 0.5px solid gray;
+  padding: 10px;
+  box-shadow: 2px 2px 10px #888888;
+}
+
+.form-control {
+  padding: 0px;
+  margin: 0px;
+}
+
+.submit {
+  display: flex;
+  justify-content: center;
+}
+.submit-btn {
+  padding: 10px;
+  margin: 10px;
+}
+
+.submit-btn:hover {
+  color: #fff;
+  background-color: #f88;
+  border-radius: 10px;
+  padding: 10px;
+}
+
+.message {
+  display: flex;
+  justify-content: center;
+  margin: 0px;
+  padding: 0px;
+}
+
+.row-1 {
+  display: flex;
+  justify-content: center;
+}
+
+li {
+  list-style: none;
+}
+
+h4 {
+  text-align: center;
+  margin: 0px;
+  padding: 0px;
+}
+
+.row {
+  padding: 50px;
+  margin: 10px;
+  text-align: center;
+}
+
+.col-md { 
+}
+
+.r1 {
+  transition: all 0.3s ease-in-out;
+}
+
+.r1:hover {
+  transform: scale(1.1);
+}
+
+.r2 {
+  transition: all 0.3s ease-in-out;
+}
+
+.r2:hover {
+  transform: scale(1.1);
+}
+
+.r3 {
+  transition: all 0.3s ease-in-out;
+}
+
+.r3:hover {
+  transform: scale(1.1);
+}
+
+.review-title {
+  font-size: 15px;
+}
+
+.review {
+  font-size: 13px;
+  font-family: arial;
+}
+
+footer {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
+
+.fbutton {
+  color: #fff;
+}
+footer > div {
+  background: #f88;
+}
+
+.bottom-links {
+  display: flex;
+  justify-content: space-between;
+}
+
+footer-items {
+  display: flex;
+  justify-content: space-between;
+}
